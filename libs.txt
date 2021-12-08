@@ -1,0 +1,6 @@
+Django==3.2.6
+matplotlib==3.4.3
+pandas==1.2.5
+pathlib==1.0.1
+requests==2.25.1
+plotly==5.2.2
