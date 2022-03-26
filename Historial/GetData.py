@@ -32,7 +32,7 @@ def priceCoinmarketcap(start = '1', limit = '100'):
     }
     headers = {
     'Accepts': 'application/json',
-    'X-CMC_PRO_API_KEY': '0d35a9e7-6436-43f1-82fc-6f04cd65eb78',
+    'X-CMC_PRO_API_KEY': '',
     }
 
     session = Session()
